@@ -11,4 +11,16 @@ Journal available at: https://link.springer.com/article/10.1007/s10846-024-02065
 Fig. 1: Examples of raw and restored underwater images. Figures 1a and 1b correspond to the raw and processed underwater images, respectively, in an ocean environment. Figures 1c and 1d correspond to the raw and processed underwater images, respectively, in a river environment.
 
 
-AUID DATASET: https://drive.google.com/drive/folders/1-fKpwApf9rQnS5iPR-Yew6ORYdWB1Lev?usp=sharing
+### AUID DATASET: https://drive.google.com/drive/folders/1-fKpwApf9rQnS5iPR-Yew6ORYdWB1Lev?usp=sharing
+
+
+#### If you use our codes or dataset for academic research, please cite our paper.
+
+```bibtex 
+@INPROCEEDINGS{Martinho2024,
+  author={Martinho, Laura A. and Oliveira, Felipe G. and Cavalcanti, João M. B. and Pio, José L. S.},
+  booktitle={Journal of Intelligent & Robotic Systems}, 
+  title={Diving into Clarity: Restoring Underwater Images using Deep Learning}, 
+  year={2024},
+  doi={10.1007/s10846-024-02065-8}}
+```
